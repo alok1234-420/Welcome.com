@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 20%;
+            background-color: #f0f8ff;
+        }
+        h1 {
+            color: #2e8b57;
+        }
+        p {
+            color: #555;
+            font-size: 18px;
+        }
+        .name {
+            color: #4682b4;
+            font-size: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome</h1>
+    <p>আমার Website এ স্বাগতম</p>
+    <p class="name">বানিয়েছে স্বয়ং: SSBM</p>
+</body>
+</html>
